@@ -1,4 +1,4 @@
-# COMANDOS DO GIT
+COMANDOS DO GIT
 
 ls- lista os arquivos dentro do ambiente
 
